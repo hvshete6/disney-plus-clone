@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+/* This Will Set width of scrollbar */
+::-webkit-scrollbar{
+    width:10px;
+}
+
+/* Scrollbar Track Background */
+::-webkit-scrollbar-track{
+    background: #090B13;
+    border-radius: 50px;
+}
+
+/* //the scrollbar which moves up and down on scroll */
+::-webkit-scrollbar-thumb{
+    background: #fff;
+    border-radius: 50px;
+}
