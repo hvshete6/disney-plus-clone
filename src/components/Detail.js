@@ -37,12 +37,12 @@ function Detail() {
 
           <Controls>
             <PlayButton>
-              <img src="/images/play-icon-black.png" />
+              <img src="/images/play-icon-black.PNG" />
               <span>PLAY</span>
             </PlayButton>
 
             <TrailerButton>
-              <img src="/images/play-icon-white.png" />
+              <img src="/images/play-icon-white.PNG" />
               <span>Trailer</span>
             </TrailerButton>
 
@@ -51,7 +51,7 @@ function Detail() {
             </AddButton>
 
             <GroupWatchButton>
-              <img src="/images/group-icon.png" />
+              <img src="/images/group-icon.PNG" />
             </GroupWatchButton>
           </Controls>
 
