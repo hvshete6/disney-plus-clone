@@ -17,10 +17,10 @@ function ImgSlider() {
   return (
     <Carousel {...settings}>
       <Wrap>
-        <img src="/images/slider-badging.jpg" alt="https://i0.wp.com/thedisinsider.com/wp-content/uploads/2020/11/cinderell.jpeg?fit=1200%2C675&ssl=1" />
+        <img src="../../public/images/slider-badging.jpg" alt="https://i0.wp.com/thedisinsider.com/wp-content/uploads/2020/11/cinderell.jpeg?fit=1200%2C675&ssl=1" />
       </Wrap>
       <Wrap>
-        <img src="/images/slider-badag.jpg" alt="https://i0.wp.com/thedisinsider.com/wp-content/uploads/2020/11/cinderell.jpeg?fit=1200%2C675&ssl=1" />
+        <img src="../../public/images/slider-badag.jpg" alt="https://i0.wp.com/thedisinsider.com/wp-content/uploads/2020/11/cinderell.jpeg?fit=1200%2C675&ssl=1" />
       </Wrap>
     </Carousel>
   );
